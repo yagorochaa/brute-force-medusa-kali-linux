@@ -1,4 +1,4 @@
 1- user
-2- nmsfadmin
+2- msfadmin
 3- admin
 4- root
