@@ -1,6 +1,6 @@
 # 🧠 Projeto: Ataques de Força Bruta com Medusa no Kali Linux
 
-## 📋 Descrição do Desafio
+## 📋 Descrição do Projeto
 
 Este projeto implementa, documenta e compartilha um estudo prático utilizando **Kali Linux** e a ferramenta **Medusa**, em conjunto com ambientes vulneráveis — com o **Metasploitable 2**. O objetivo é simular ataques de força bruta/password spraying e descrever medidas de prevenção.
 
