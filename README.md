@@ -154,12 +154,14 @@ Recomendações gerais:
 
 ## ✍️ Reflexões e Aprendizados
 
-**O que aprendi:**  
+**O que aprendi:** 
 Realizei ataques de força bruta automatizados com **Medusa** (FTP, HTTP form, SMB) em VMs controladas (Kali + Metasploitable/DVWA).
 Aprendi a configurar parâmetros (host, usuários, wordlists, módulos) e a interpretar respostas de login para identificar credenciais válidas.
+
 ---
 **Conclusão:**  
 O exercício consolidou meus conhecimentos práticos sobre ataques de autenticação e reforçou a importância de controles de defesa e monitoramento para proteger aplicações reais.
+
 ---
 ### Autor
 
